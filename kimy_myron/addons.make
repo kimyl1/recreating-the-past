@@ -1,0 +1,3 @@
+ofxClipper
+ofxOpenCv
+ofxCv
